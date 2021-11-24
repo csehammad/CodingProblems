@@ -3,7 +3,7 @@
 
 ## Challenge#1- Perfix Notation 
 #### Write a function that evaluates an expression written in Prefix Notiation and returrns a value 
-* Problem Statement: 
+** Problem Statement: 
 Prefix notation (also known as polish notation) is an alternative to the more familier infix notation. 
 
 In infix notation, operators(add,multiply,etc) are written between their operands(number, variables, or sub-expression). 
