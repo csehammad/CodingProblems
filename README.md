@@ -2,9 +2,9 @@
 ### This repository contains various coding challenges taken on Sites like HackerRank, LeetCode etc. 
 
 ## Challenge#1- Prefix Notation 
-#### Write a function that evaluates an expression written in Prefix Notiation and returrns a value 
+### Write a function that evaluates an expression written in Prefix Notiation and returrns a value 
 
-##### Problem Statement: 
+#### Problem Statement: 
 
 Prefix notation (also known as polish notation) is an alternative to the more familier infix notation. 
 
@@ -49,7 +49,7 @@ expression: + 10 x
 variables {"x":3}
 value: 13
 ```
-##### Task
+#### Task
 
 Implement a function CalculateExpression(expression,variables)
 that takes as inputs:
@@ -66,7 +66,7 @@ The only accepted numeric operands aer positive integers in base 10 (e.g 1,22, 8
 
 A valid variable name is any sequence of characters that doesn't include whitespaces(spaces,tabs, newlines, etc). 
 
-##### Examples
+#### Examples
 
 ```
 Expression: + 1 5
@@ -125,7 +125,7 @@ variables: {"x":1,"y":3}
 result: 9
 ```
 
-##### Solution: CodingChallenge.HackerRank/PrefixNotation.cs
-##### Test Cases : CodingChallenge.Tests/UT_PrefixNotation.cs
-
+#### Solution: CodingChallenge.HackerRank/PrefixNotation.cs
+#### Test Cases : CodingChallenge.Tests/UT_PrefixNotation.cs
+![alt text]https://github.com/csehammad/CodingProblems/blob/main/CodingChallenge.Tests/IMG_PrefixNotation.png?raw=true)
 
