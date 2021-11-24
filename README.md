@@ -125,3 +125,7 @@ variables: {"x":1,"y":3}
 result: 9
 ```
 
+##### Solution: CodingChallenge.HackerRank/PrefixNotation.cs
+##### Test Cases : CodingChallenge.Tests/UT_PrefixNotation.cs
+
+
