@@ -1,7 +1,7 @@
 # Coding Challenges 
 ### This repository contains various coding challenges taken on Sites like HackerRank, LeetCode etc. 
 
-##Challenge#1- Perfix Notation 
+## Challenge#1- Perfix Notation 
 #### Write a function that evaluates an expression written in Prefix Notiation and returrns a value 
 * Problem Statement: 
 Prefix notation (also known as polish notation) is an alternative to the more familier infix notation. 
