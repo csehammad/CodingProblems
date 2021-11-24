@@ -26,3 +26,19 @@ Infix expression: (1+2) * 3
 Prefix expression: * + 1 2 3 
 Value: 9 
 ```
+
+Sometimes there are multiple sub-expressions:
+``` 
+Infix expression: ((1 + 2) *3)-4 
+Prefix expression: - * + 1 2 3 4
+value: 5
+``` 
+
+Sub-expressions can be nested arbitrarily deeply:
+``` 
+Infix expression: 6 + (( 4 - (2 + 3 ) ) * 8 )
+Prefix expression: + 6 * - 4 + 2 3 8
+value: -2
+``` 
+
+
